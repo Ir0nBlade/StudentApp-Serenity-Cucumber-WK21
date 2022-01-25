@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student Information","Verify user should able to access student application","SUCCESS","2022-01-25T20:01:26.236Z[Europe/London]","0.0","2.15"
+"Student Information","Create a new student & verify if the student is added","SUCCESS","2022-01-25T20:01:29.031Z[Europe/London]","0.0","0.44"
+"Student Information","Verify Student information can be updated","SUCCESS","2022-01-25T20:01:29.488Z[Europe/London]","0.0","0.05"
+"Student Information","Delete the single student data and verify its delete from database","SUCCESS","2022-01-25T20:01:29.554Z[Europe/London]","0.0","0.03"
